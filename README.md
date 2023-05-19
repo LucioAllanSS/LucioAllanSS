@@ -1,11 +1,11 @@
 <h1 align="center">Hola! 👋, Soy Lucio</h1>
 <h3 align="center">Soy un aspirante a FullStack aprendiendo cada día</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Ruby, GDScript, Python.**
+- 💬 Hablame sobre **HTML, CSS, JavaScript, Ruby, GDScript, Python.**
 
-- 📫 How to reach me **lucioallanss@gmail.com**
+- 📫 Como contactarme **lucioallanss@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/lucio allan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucio allan" height="30" width="40" /></a>
 </p>
